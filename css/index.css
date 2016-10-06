@@ -66,15 +66,16 @@
 }
 
 .post-preview {
-  text-decoration: none !important;
   color: #404040 !important;
 }
 
 .post-preview .post-title {
+  text-decoration: none !important;
   font-size: 26px;
   font-weight: 700;
   margin-top: 0;
 }
+
 .post-preview .post-subtitle {
   margin: 0;
   font-weight: 300;
