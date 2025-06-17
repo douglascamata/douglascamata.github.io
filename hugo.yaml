@@ -1,0 +1,22 @@
+baseURL: https://douglascamata.com/
+languageCode: en-us
+title: Douglas Camata
+theme: ["PaperMod"]
+
+params:
+  profileMode:
+    enabled: true
+    title: "Welcome to my website!"
+    subtitle: |
+      I'm Douglas Camata, a software engineer and open source enthusiast.
+  socialIcons:
+    - name: "GitHub"
+      url: "https://github.com/douglascamata"
+    - name: "X"
+      url: "https://x.com/douglascamata"
+    - name: "LinkedIn"
+      url: "https://linkedin.com/in/douglascamata"
+    - name: "Mastodon"
+      url: "https://techhub.social/@douglascamata"
+    - name: "BlueSky"
+      url: "https://bsky.app/profile/douglascamata.bsky.social"
